@@ -6,6 +6,7 @@
         "is_trending": true
       },
       "category_id": "01",
+      "category_name":"brakingNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
@@ -25,6 +26,7 @@
         "is_trending": true
       },
       "category_id": "03",
+      "category_name":"internationalNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
@@ -45,6 +47,7 @@
         "is_trending": true
       },
       "category_id": "01",
+      "category_name":"brakingNews",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "total_view": 400,
       "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
@@ -64,6 +67,7 @@
         "is_trending": true
       },
       "category_id": "02",
+      "category_name":"regularNews",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "total_view": 400,
       "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
@@ -84,6 +88,7 @@
         "is_trending": false
       },
       "category_id": "03",
+      "category_name":"internationalNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 980,
       "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
@@ -103,6 +108,7 @@
         "is_trending": false
       },
       "category_id": "01",
+      "category_name":"brakingNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 980,
       "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
@@ -123,6 +129,7 @@
         "is_trending": true
       },
       "category_id": "02",
+      "category_name":"regularNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": null,
       "title": "Tucker Carlson: Putin Winning in Ukraine, Biden Hurting West",
@@ -143,6 +150,7 @@
         "is_trending": true
       },
       "category_id": "03",
+      "category_name":"internationalNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 111,
       "title": "America Imported Over $6 Billion in Goods From Russia Since Ukraine Invasion",
@@ -163,6 +171,7 @@
         "is_trending": false
       },
       "category_id": "04",
+      "category_name":"sports",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 733,
       "title": "Shaquille O’Neal auctions a 1000 size 22 Reeboks for $999.32 each!",
@@ -182,6 +191,7 @@
         "is_trending": false
       },
       "category_id": "04",
+      "category_name":"sports",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 733,
       "title": "George Russell wears $110 Daniel Ricciardo merchandise to Zandvoort paddock ahead of Dutch GP",
@@ -202,6 +212,7 @@
         "is_trending": true
       },
       "category_id": "05",
+      "category_name":"entertainment",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 127,
       "title": "9 Things to do in Colorado this Labor Day weekend",
@@ -221,6 +232,7 @@
         "is_trending": true
       },
       "category_id": "05",
+      "category_name":"entertainment",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 127,
       "title": "Up Late with Ben Harvey: Why Troy Mercanti needs to start an OnlyFans account",
@@ -241,6 +253,7 @@
         "is_trending": true
       },
       "category_id": "02",
+      "category_name":"regularNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 700,
       "title": "Halo, GTA Vice City Actor Directing Movie About Hunter Biden",
@@ -260,6 +273,7 @@
         "is_trending": false
       },
       "category_id": "07",
+      "category_name":"arts",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 300,
       "title": "Joe Biden announces $3B in new military aid to Ukraine",
@@ -279,6 +293,7 @@
         "is_trending": true
       },
       "category_id": "01",
+      "category_name":"brakingNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 0,
       "title": "Biden announces $3 billion Ukraine military aid package on its Independence Day",
@@ -298,6 +313,7 @@
         "is_trending": true
       },
       "category_id": "01",
+      "category_name":"brakingNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 320,
       "title": "U.S. announces largest weapons package for Ukraine",
@@ -317,6 +333,7 @@
         "is_trending": false
       },
       "category_id": "02",
+      "category_name":"regularNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 552,
       "title": "US commander to train Ukraine military",
@@ -336,6 +353,7 @@
         "is_trending": true
       },
       "category_id": "01",
+      "category_name":"brakingNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 89,
       "title": "U.S. concerned about India's participation in Russia military exercises",
@@ -355,6 +373,7 @@
         "is_trending": true
       },
       "category_id": "01",
+      "category_name":"brakingNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 798,
       "title": "Zelensky says he had ‘great conversation' with Biden, discussed Kiev's further steps",
@@ -374,6 +393,7 @@
         "is_trending": true
       },
       "category_id": "03",
+      "category_name":"internationalNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 879,
       "title": "US Pledges $3 Bln In Additional Security Assistance For Ukraine",
@@ -393,6 +413,7 @@
         "is_trending": true
       },
       "category_id": "01",
+      "category_name":"brakingNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 231,
       "title": "US to name military mission in Ukraine and appoint commander – WSJ",
@@ -412,6 +433,7 @@
         "is_trending": true
       },
       "category_id": "02",
+      "category_name":"regularNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 546,
       "title": "Opinion: After a summer of surprising successes, President Biden is on a roll",
@@ -431,6 +453,7 @@
         "is_trending": true
       },
       "category_id": "03",
+      "category_name":"internationalNews",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 1870,
       "title": "Ukraine receives more military aid from allies on its independence day",
@@ -451,6 +474,7 @@
         "is_trending": true
       },
       "category_id": "07",
+      "category_name":"arts",
       "rating": { "number": 4.2, "badge": "Excellent" },
       "total_view": 354,
       "title": "‘Self-obsessed liar’: Meghan mocked for Mandela story",
@@ -470,6 +494,7 @@
         "is_trending": true
       },
       "category_id": "05",
+      "category_name":"entertainment",
       "rating": { "number": 4.5, "badge": "Excellent" },
 
       "total_view": 100,
@@ -490,6 +515,7 @@
         "is_trending": false
       },
       "category_id": "04",
+      "category_name":"sports",
       "rating": { "number": 4.5, "badge": "Excellent" },
 
       "total_view": 100,
